@@ -1,8 +1,7 @@
 {
     "name": "njax-bootstrap",
     "version": "0.0.1",
-    "private": false,
-"repos":"git@github.com:schematical/njax-bootstrap.git",
+    "private": true,
     "scripts": {
         "start": "node index.js"
     },
